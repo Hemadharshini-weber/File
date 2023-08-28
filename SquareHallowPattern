@@ -1,4 +1,4 @@
-class HelloWorld {
+class SquareHallowPattern {
     public static void main(String[] args) {
         System.out.println("Hello, World!\n");
         int i,j,n=6;
